@@ -7,7 +7,7 @@ this is my github intro project repo.
 
 Regular text right here
 
-You can include [hyperlinks](https://fullstackdecal.com) 
+You can include [hyperlinks](https://bradleytsou.com) 
 
 And even images: ![logo](https://fullstackdecal.com/img/logo.png)
 
